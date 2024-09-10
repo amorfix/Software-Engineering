@@ -1,0 +1,8 @@
+*.log
+node_modules/
+.env
+temp/*
+*.tmp
+*.bak
+*.swp
+Thumbs.db  # для Windows
